@@ -26,7 +26,13 @@
 
 * Many features will highlight when scrolled over. Though this is a basic form of feedback, it is a good.
 * Tabs on the website, such as 'shows' or 'blog' remain highlighted when the user is on a given page, assisting navigation.
-* There is a "loading" graphic that is displayed when features such as the blog or the shows pages are being loaded
+
+
+![loading icon](https://user-images.githubusercontent.com/56604738/78820196-3e8c8400-798c-11ea-81c6-8043448df1e7.png)
+
+* Perhaps most dissapointingly for a music outlet, there is no data on display for which song is currently being broadcast. Instead, the stream simply says "LIVE STREAM" when being played. This is unacceptable for a radio outlet of this type - one that could serve as a music tastemaker. *See below*
+
+![Screen Shot 2020-04-08 at 11 19 28 AM](https://user-images.githubusercontent.com/56604738/78820626-fc177700-798c-11ea-9a64-4452baa7872f.png)
 
 
 
