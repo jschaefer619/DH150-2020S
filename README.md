@@ -12,7 +12,7 @@
 
 #### A website that is usable, enticing, and engaging can catapult college radio into the 21st century. But for this to happen, *great* design is neccessary.
 
-### As a member of the college radio community, I am driven to better the impact of college radio, and other community focused media outlets through an understanding of UI/UX principles. I will use Jakon Nielson's 10 usability heuristics to evaluate two college radio websites.
+#### As a member of the college radio community, I am driven to better the impact of college radio, and other community focused media outlets through an understanding of UI/UX principles. I will use Jakon Nielson's 10 usability heuristics to evaluate two college radio websites.
 
 ## *Assignment One: Heuristic Evaluation*
 
