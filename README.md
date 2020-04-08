@@ -20,8 +20,13 @@
 
 ![Screen Shot 2020-04-08 at 10 57 09 AM](https://user-images.githubusercontent.com/56604738/78818422-7e05a100-7989-11ea-8d03-af3e6fe2ea37.png)
 
+### *Brief Evaluation* UCLA Radio has a strong social media presence, and there is a nice synergy here with the website's immediate links to various social media outlets. Additionally, there is a strong and active blog, though it's content is not communicated well to the user. The show panel is lacking in presentation and consistency. Much to the detriment of the overall user experience, many features have not been maintained or updated in over a year. This makes the experience alientating to the new user. Furthermore, the overall aesthetic is dated and cluttered.
 
-### Heuristic One: 
+### Heuristic One: Visiblity of system status
+
+* Many features will highlight when scrolled over. Though this is a basic form of feedback, it is a good.
+* Tabs on the website, such as 'shows' or 'blog' remain highlighted when the user is on a given page, assisting navigation.
+* There is a "loading" graphic that is displayed when features such as the blog or the shows pages are being loaded
 
 
 
