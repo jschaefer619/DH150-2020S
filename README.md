@@ -88,6 +88,8 @@
 * The banner at the top of the web page could display useful information about upcoming events or announcements. A major one could be how programming has changed in the wake of COVID-19. However, it instead alternates betweeen two banners that provide no substantive information about the station. Wasted space.
 * The "shows" section of the website is a very inefficent use of a lot of space. Furthermore, there are many black slots where automated programming plays instead of a radio show. These spaces should have some sort of icon to assist in the aesthetic of the page. *See below*
 
+![shows](https://user-images.githubusercontent.com/56604738/78826796-faeb4780-7996-11ea-97df-8c83d15c9086.png)
+
 * *Severity Rating 3*
 
 ### Heuristic Nine: Help users recognize, diagnose, and recover from errors
@@ -98,7 +100,7 @@
 
 ### Heuristic Ten: Help and Documentation
 
-* Under the 'Stream' page, there is information on how to fix problems with the stream and other website features. Although reloading the webpage will fix errors, it is still a very undesirable solution. Rather than reload the webpage multipe times, the user may simply visit another more functional website.
+* Under the 'Stream' page, there is information on how to fix problems with the stream and other website features. Although reloading the webpage will fix errors, it is still a very undesirable solution. Rather than reload the webpage multiple times, the user may simply visit another more functional website.
 * Related to heuristic four, it is unclear why there is a 'stream' page that really only contains information on resolving website issues. A different title for this page may be more appropriate. *See below*
 
 ![ucla error recovery](https://user-images.githubusercontent.com/56604738/78827068-66351980-7997-11ea-82e8-13091e2f7f47.png)
@@ -107,15 +109,15 @@
 
 ### Website Two: [KXLU](https://kxlu.com)
 
-#### *Description* /: KXLU.com is the companion website to the terrestrial 88.9 FM Radio station. This is also a college radio station for Loyola Marimount Univeristy. It many of the same features as UCLA Radio's website\: there is a livestream, blog, events page, DJ page, etc. 
+#### *Description*: KXLU.com is the companion website to the terrestrial 88.9 FM Radio station. This is also a college radio station for Loyola Marimount Univeristy. It many of the same features as UCLA Radio's website\: there is a livestream, blog, events page, DJ page, etc. 
 
-### *Brief Evaluation and Motivation* /: KXLU has a great, modern aesthetic to their website. Clearly, there was a sizable budget allocated to updating and mantaining this website. However, some features have also been neglected by content creators, and some of the actions take users to confusing sister websites. Some fine-tuning would go a long way. With KXLU positioned as a 'rival' station to UCLA Radio, I believe it would be fruitful to understand where it's design choices suceed and where it falls flat.
+#### *Brief Evaluation and Motivation*: KXLU has a great, modern aesthetic to their website. Clearly, there was a sizable budget allocated to updating and mantaining this website. However, some features have also been neglected by content creators, and some of the actions take users to confusing sister websites. Some fine-tuning would go a long way. With KXLU positioned as a 'rival' station to UCLA Radio, I believe it would be fruitful to understand where it's design choices suceed and where it falls flat.
 
 ![kxlu landing](https://user-images.githubusercontent.com/56604738/78828056-f58efc80-7998-11ea-9764-8a022cbab06d.png)
 
 ### Heuristic One: Visiblity of system status
 
-* There are responsive action when interactive parts of the website are scrolled over with the mouse.
+* There is responsive action when interactive parts of the website are scrolled over with the mouse.
 * Similar to UCLA Radio, the livestream does not display any information about which song is being played. Very undesirable for a college radio station.
 
 * *Severity Rating 3*
@@ -128,9 +130,9 @@
 
 ### Heuristic Three: User control and freedom
 
-* Many features on the website are easily navigated by the user without much wait.
-* The following design flaw may be relevant to several heuristics, but is worth describing here. Whenever a new section of the website is loaded, such as going from the \'about\' page to the \'blog' page, the entire website is reloaded. Thus, the stream is effectively stopped then restarted, causing a very undesirable pause for the users listening experience. Users may hesistate to explore other of the website, knowing that the stream will be interrupted. One can resolve this issue by using a linked external streaming platform, which is communicated adequately to the user - but perhaps this solution could be stressed more.
-* Clicking on \' playlist\' feature under the \'DJs'\ header directs the user to the KXLU spintron companion website. This feature is useful, but is also challenging for users to navigate back to the KXLU website. At the very least, a new tab could be generated instead of replacing the user\'s current window. *See spintron website below*
+* Many features on the website are easily navigated by the user without much wait time.
+* The following design flaw may be relevant to several heuristics, but is worth describing here. Whenever a new section of the website is loaded, such as going from the \'about\' page to the \'blog' page, the entire website is reloaded. Thus, the stream is effectively stopped then restarted, causing a very undesirable pause for the users listening experience. Users may hesistate to explore other of the website, knowing that the stream will be interrupted. One can resolve this issue by using a linked external streaming platform, which is communicated adequately to the user - but this solution could be stressed more.
+* Clicking on \' playlist\' feature under the \'DJs'\ header directs the user to the KXLU "spintron" companion website. This feature is useful, but is also challenging for users to navigate back to the KXLU website. At the very least, a new tab could be generated instead of replacing the user\'s current window. *See spintron website below*
 
 ![Screen Shot 2020-04-08 at 1 27 03 PM](https://user-images.githubusercontent.com/56604738/78830373-b2368d00-799c-11ea-82d9-715927d93bf4.png)
 
@@ -138,12 +140,12 @@
 
 ### Heuristic Four: Consistency and Standards
 
-* The website adhears to most web conventions.
+* The website adheres to most web conventions.
 * At the bottom of the website page, there are a series of links that reiterate some major features of the website. Some new names and catagories are used here. For instance, a \'happenings\' tab recategorizes the events and blog page under this heading. This is a minor change in the consistency to redress some of the website\'s features, and this is acceptable.
 
 ![Screen Shot 2020-04-08 at 1 36 38 PM](https://user-images.githubusercontent.com/56604738/78831148-02621f00-799e-11ea-82b6-c5475dca5640.png)
 
-* *Severity Rating 1*
+* *Severity Rating 0*
 
 ### Heuristic Five: Error Prevention
 
@@ -159,14 +161,14 @@
 * The DJ pages supports recognition over recall through having the pictures/icons of DJ's prominently displayed. Thus, users do not have to neccessarily know a full DJ name to locate the desired DJ.
 * However, the above feature\'s use is limited. Not all DJ\'s on the schedule are listed on the DJ page. This could make it challenging for the user to find the showtime of a given unlisted DJ.
 
-* *Severity Rating 1*
+* *Severity Rating 2*
 
 ### Heuristic Seven: Flexibility and Efficiency of Use
 
 * Unfortunately, there is no way for users to search for a given DJ or show without scanning through those respective webpages.
 * There is a useful catagorization feature for the blog, helping users sort articles by type. Perhaps a similar solution could be applied to other aspects of the website.
 
-* *Severity Rating 1*
+* *Severity Rating 2*
 
 ### Heuristic Eight: Aesthetic and Minimalist Design
 
