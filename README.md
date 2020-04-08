@@ -1,8 +1,8 @@
 # DH150-2020S Jack Schaefer UID: 704937365
 
-## Introduction: Statement of Purpose
+# Potential Project Name: Community Building through community-centered media
 
-### Potential Project Name: Community Building through community-centered media
+## Introduction: Statement of Purpose
 
 #### Former president Bill Clinton spoke fondly of communitarianism as the philosphical bedrock for a more interconnected, responsible community. Loosely, communitarianism views the community itself as the fundamental politcal unit. Fostering trust, togetherness,and belonging between neighboors was a pathway to combat rising national partisanship.
 
