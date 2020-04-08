@@ -10,23 +10,23 @@
 
 #### However, Radio is an aging medium. Terrestrial Radio stations and conventional radio programming may be diminishing in relevance. However, there is still a hunger for audio-based media. Podcasts are surging in popularity. Stations can post curated spotify or Apple Music playlists for users.
 
-#### A website that is usable, enticing, and engaging can catapult college radio into the 21st century. But for this to happen, *great* design is neccessary.
+#### A website that is usable, enticing, and engaging can catapult college radio into the 21st century. But for this to happen, great *design* is neccessary.
 
-#### As a member of the college radio community, I am driven to better the impact of college radio, and other community focused media outlets through an understanding of UI/UX principles. I will use Jakon Nielson's 10 usability heuristics to evaluate two college radio websites.
+#### As a member of the college radio community, I am driven to better the impact of college radio, and other community focused media outlets through an understanding of UI/UX principles. I will use Jakob Nielson's 10 usability heuristics to evaluate two college radio websites.
 
 ## *Assignment One: Heuristic Evaluation*
 
 ### Website One: [UCLA Radio](https://uclaradio.com)
 
-#### *Description* /: UCLA Radio's website is the primary platform for engaging with UCLA Radio content. UCLA Radio is not terrestrial - there is no AM or FM signal broadcast - instead, it's primary broadcast is accessible online through a live stream. As such, the live stream is the focus of the website. Other features include a DJ section, a \'shows\' section, a blog, an about section, an events section, and a link to apply to the organization.
+#### *Description*: UCLA Radio's website is the primary platform for engaging with UCLA Radio content. UCLA Radio is not terrestrial - there is no AM or FM signal broadcast - instead, it's primary broadcast is accessible online through a live stream. As such, the live stream is the focus of the website. Other features include a DJ section, a \'shows\' section, a blog, an about section, an events section, and a link to apply to the organization.
 
 ![Screen Shot 2020-04-08 at 10 57 09 AM](https://user-images.githubusercontent.com/56604738/78818422-7e05a100-7989-11ea-8d03-af3e6fe2ea37.png)
 
-### *Brief Evaluation and Motivation* \: UCLA Radio has a strong social media presence, and there is a nice synergy here with the website's immediate links to various social media outlets. Additionally, there is a strong and active blog, though it's content is not communicated well to the user. The show panel is lacking in presentation and consistency. Much to the detriment of the overall user experience, many features have not been maintained or updated in over a year. This makes the experience alientating to the new user. Furthermore, the overall aesthetic is dated and cluttered. But as a member of this community, I hope to better understand and improve the user experience through this evaluation.
+#### *Brief Evaluation and Motivation* \: UCLA Radio has a strong social media presence, and there is a nice synergy here with the website's immediately communicated links to various social media outlets. Additionally, there is a strong and active blog, though it's content is not communicated well to the user. The show panel is lacking in presentation and consistency. Much to the detriment of the overall user experience, many features have not been maintained or updated in over a year. This makes the experience alientating to the new user. Furthermore, the overall aesthetic is dated and cluttered. But as a member of this community, I hope to better understand and improve the user experience through this evaluation.
 
 ### Heuristic One: Visiblity of system status
 
-* Many features will highlight when scrolled over. Though this is a basic form of feedback, and is a good.
+* Many features will highlight when scrolled over. Though this is a basic form of feedback, it is a good.
 * Tabs on the website, such as 'DJs' or 'blog' remain highlighted when the user is on a given page, assisting navigation.
 * There is a 'loading' graphic that is displayed when features such as the blog or the shows pages are being loaded. This is a useful progress indicator. However, there have been multiple instances where the loading animation never ends, and the user must reload the page. *See below*
 
@@ -34,9 +34,9 @@
 
 * Perhaps most dissapointingly for a music outlet, there is no data on display for which song is currently being broadcast. Instead, the stream simply says "LIVE STREAM." This is unacceptable for a radio outlet of this type - one that could serve as a music tastemaker. *See below*
 
-* *Severity Rating 3*
-
 ![Screen Shot 2020-04-08 at 11 19 28 AM](https://user-images.githubusercontent.com/56604738/78820626-fc177700-798c-11ea-9a64-4452baa7872f.png)
+
+* *Severity Rating 3*
 
 ### Heuristic Two: Match Between System and Real World
 
@@ -46,8 +46,8 @@
 
 ### Heuristic Three: User Control and Freedom
 
-* The website is simple enough for the user to be able to navigate between many features without being forced into unwarrented wait times.
-* One problematic feature is the presence of a button that allows users to see the "old blog." Upon clicking this feature, users are taken to an old website that, while resembling the aesthetic of the new website, has entirely different content and layout. The only way to return to primary website is to click on the UCLA Radio icon, or use the back button in website navigation. These flaws would be much more forgiving if this old blog looked truly distinct from the new website, but instead it occupies this uncanny middleground between the old/new website. This is confusing to users and limits their freedom to return to the original website. *See this featue below*
+* The website is simple enough for the user to navigate between many features without being forced into unwarrented wait times
+* One problematic feature is the presence of a button that allows users to see the "old blog." Upon clicking this feature, users are taken to an old website that, while resembling the aesthetic of the new website, has entirely different content and layout. The only way to return to primary website is to click on the UCLA Radio icon, or use the back button on a web browser. These flaws would be much more forgiving if this old blog looked truly distinct from the new website, but instead it occupies this uncanny middleground between the old/new website. This is confusing to users and limits their freedom to return to the original website. *See this feature below*
 
 ![Screen Shot 2020-04-08 at 12 03 13 PM](https://user-images.githubusercontent.com/56604738/78823095-fc197600-7990-11ea-87c7-572d888d62cd.png)
 
@@ -69,7 +69,7 @@
 
 ### Heuristic Six: Recognition Rather than Recall
 
-* When searching for a given Dj using the search bar, the roster of DJ's does narrow down. This is helpful, as the user may know the first few characters of a given DJ then recognize thier face or selected DJ icon.
+* When searching for a given Dj using the search bar, the roster of DJ's does narrow down with respect to the user's search. This is helpful, as the user may know the first few characters of a given DJ then recognize thier face or selected DJ icon.
 * However, there is no synergy between the DJ page and the show schedule page. So, a user will have to either remember when a given DJ's showtime is, or scan the poorly layed out show page until finding their respective show. 
 
 * *Severity Rating 2*
@@ -78,14 +78,14 @@
 
 * Many of the above points are echoed here. The search feature for DJ's allows for more efficient use. A newcomer is free to browse the DJ galleries if they desire.
 * A similar search feature is incorporated in the 'blog' website section
-* The absense of this feature for showtimes is very undesirable. Again, the user will have to remember a given showtime to find more show info when navigating the "shows" page
+* The absense of this search feature for showtimes is very undesirable. Again, the user will have to remember a given showtime to find more show info when navigating the 'shows' page
 
 * *Severity Rating 2*
 
 ### Heuristic Eight: Aesthetic and Minimalist Design
 
 * The landing page of the website is disappointing. It is cluttered with old blog posts layed out in a series of blocks. UCLA Radio has a thriving youtube channel with great videos of in station performances. As evidenced on the new blog, talented photographers document local concerts. Visually appealing content such as this should be the first thing new users see when visiting the webpage.
-* The banner at the top of the web page could display useful information about upcoming events or announcements. A major one could be how programming has changed in the wake of COVID-19. However, it instead alternates betweeen two banners that provide no substantive information about the station. Wasted space
+* The banner at the top of the web page could display useful information about upcoming events or announcements. A major one could be how programming has changed in the wake of COVID-19. However, it instead alternates betweeen two banners that provide no substantive information about the station. Wasted space.
 * The "shows" section of the website is a very inefficent use of a lot of space. Furthermore, there are many black slots where automated programming plays instead of a radio show. These spaces should have some sort of icon to assist in the aesthetic of the page. *See below*
 
 * *Severity Rating 3*
