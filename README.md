@@ -16,7 +16,10 @@
 
 ### Website One: [UCLA Radio](https://uclaradio.com)
 
-#### UCLA Radio's website is the primary platform for engaging with UCLA Radio content. UCLA Radio is not terrestrial - there is no AM or FM signal broadcast - instead, it's primary broadcast is accessible online through a live stream. As such, the live stream is the focus of the website. Other features include a DJ section, a 'shows' section, a blog, an about section, an events section, and a link to apply to the organization. 
+#### UCLA Radio's website is the primary platform for engaging with UCLA Radio content. UCLA Radio is not terrestrial - there is no AM or FM signal broadcast - instead, it's primary broadcast is accessible online through a live stream. As such, the live stream is the focus of the website. Other features include a DJ section, a 'shows' section, a blog, an about section, an events section, and a link to apply to the organization.
+
+![Screen Shot 2020-04-08 at 10 57 09 AM](https://user-images.githubusercontent.com/56604738/78818422-7e05a100-7989-11ea-8d03-af3e6fe2ea37.png)
+
 
 ### Heuristic One: 
 
