@@ -24,7 +24,7 @@
 
 ![Screen Shot 2020-04-08 at 10 57 09 AM](https://user-images.githubusercontent.com/56604738/78818422-7e05a100-7989-11ea-8d03-af3e6fe2ea37.png)
 
-#### *Brief Evaluation and Motivation* \: UCLA Radio has a strong social media presence, and there is a nice synergy here with the website's immediately communicated links to various social media outlets. Additionally, there is a strong and active blog, though it's content is not communicated well to the user. The show panel is lacking in presentation and consistency. Much to the detriment of the overall user experience, many features have not been maintained or updated in over a year. This makes the experience alientating to the new user. Furthermore, the overall aesthetic is dated and cluttered. But as a member of this community, I hope to better understand and improve the user experience through this evaluation.
+#### *Brief Evaluation and Motivation* : UCLA Radio has a strong social media presence, and there is a nice synergy here with the website's immediately communicated links to various social media outlets. Additionally, there is a strong and active blog, though it's content is not communicated well to the user. The show panel is lacking in presentation and consistency. Much to the detriment of the overall user experience, many features have not been maintained or updated in over a year. This makes the experience alientating to the new user. Furthermore, the overall aesthetic is dated and cluttered. But as a member of this community, I hope to better understand and improve the user experience through this evaluation.
 
 ### Heuristic One: Visiblity of system status
 
@@ -134,7 +134,7 @@
 
 * Many features on the website are easily navigated by the user without much wait time.
 * The following design flaw may be relevant to several heuristics, but is worth describing here. Whenever a new section of the website is loaded, such as going from the \'about\' page to the \'blog' page, the entire website is reloaded. Thus, the stream is effectively stopped then restarted, causing a very undesirable pause for the users listening experience. Users may hesistate to explore other of the website, knowing that the stream will be interrupted. One can resolve this issue by using a linked external streaming platform, which is communicated adequately to the user - but this solution could be stressed more.
-* Clicking on \' playlist\' feature under the \'DJs'\ header directs the user to the KXLU "spintron" companion website. This feature is useful, but is also challenging for users to navigate back to the KXLU website. At the very least, a new tab could be generated instead of replacing the user\'s current window. *See spintron website below*
+* Clicking on \' playlist\' feature under the \'DJs\' header directs the user to the KXLU "spintron" companion website. This feature is useful, but is also challenging for users to navigate back to the KXLU website. At the very least, a new tab could be generated instead of replacing the user\'s current window. *See spintron website below*
 
 ![Screen Shot 2020-04-08 at 1 27 03 PM](https://user-images.githubusercontent.com/56604738/78830373-b2368d00-799c-11ea-82d9-715927d93bf4.png)
 
@@ -190,7 +190,7 @@
 
 ### Heuristic Ten: Help and Documentation
 
-* In place of a help feature, there is a well-communicated \'contact'\ page on the website, which has information for reaching various staff members.
+* In place of a help feature, there is a well-communicated \'contact\' page on the website, which has information for reaching various staff members.
 * Perhaps an alternative could be implemented to recieve on the spot help for certain issues. An \'FAQ\' page could be helpful for users to recieve immediate feedback for various questions.
 
 * *Severity Rating 1*
