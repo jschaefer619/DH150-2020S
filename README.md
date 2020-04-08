@@ -2,6 +2,8 @@
 
 ## Introduction: Statement of Purpose
 
+### Potential Project Name: Community Building through community-centered media
+
 #### Former president Bill Clinton spoke fondly of communitarianism as the philosphical bedrock for a more interconnected, responsible community. Loosely, communitarianism views the community itself as the fundamental politcal unit. Fostering trust, togetherness,and belonging between neighboors was a pathway to combat rising national partisanship.
 
 #### This focus on the communinity isn't reflected in the diversity or focus of our media outlets, which are becoming increasingly homogenized through corporate consolidation.
