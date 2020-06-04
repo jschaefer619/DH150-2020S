@@ -64,7 +64,7 @@ The features developed in the prior stage of user testing were demo'd through a 
 
 A Figma high-fidelity prototype further developed the low-fidelity prototype. Much time was dedicated to refining the aesthetics of the webpage. Interaction points were clearly communicated to the user through highlighting and underlining text. Color contrast testing was performed, and more. [Read more on High Fidelity Prototype...](https://github.com/jschaefer619/DH150-2020S/tree/master/Assignment%2007:%20High%20Fidelity%20Prototype)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1440" height="1024" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FeGnl7poccbveGvFoznV3Wc%2FHigh-Fidelity-Prototype%3Fnode-id%3D1%253A2%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FeGnl7poccbveGvFoznV3Wc%2FHigh-Fidelity-Prototype%3Fnode-id%3D1%253A2%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
 ### Evaluation and Revision History
 
