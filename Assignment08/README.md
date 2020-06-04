@@ -68,7 +68,7 @@ A Figma high-fidelity prototype further developed the low-fidelity prototype. Mu
 
 ### Evaluation and Revision History
 
-This prototype was then presented to users for impression testing and a cognitive walkthrough. Users were able to complete the three tasks of our user personas effectively, and the overall impression of the redesign was positive. However there were improvements to be made. Images associated with certain shows were made interactive to suit the user's initial impulses. These changes were swiftly implemented. Further improvements could be made to improve contrast of text over gradients.
+This prototype was then presented to users for impression testing and a cognitive walkthrough. Users were able to complete the three tasks of our user personas effectively, and the overall impression of the redesign was positive. However there were improvements to be made. Images associated with certain shows were made interactive to suit the user's initial impulses. These changes were swiftly implemented. Further tweaks could be made to improve contrast of text over gradients.
 
 ### Pitch Video
 
@@ -78,7 +78,7 @@ This prototype was then presented to users for impression testing and a cognitiv
 
 The prototype tested effectively and fostered a pleasant user experience. The biggest challenge of this redesign was updating the aesthetics of the webpage, and to that end, this redesign was a success. But further developments on this prototype could include bolder visions for the potential of community media. The improved chat feature tested effectively, but there remains potential for further DJ - listener interaction affordances. More robust user testing with college aged users may reveal more insights here.
 
-Personally, as a member of UCLA Radio, this project was satisfing. The quick and iterative nature of UI/UX research is very engaging. I learned much about the functionality and potential of Figma. Thank you to Dr. Sookie for her guidance throughout this project.
+As a member of UCLA Radio, this project was personally satisfing. The quick and iterative nature of UI/UX research is very engaging. I learned much about the functionality and potential of Figma. Thank you to Dr. Sookie for her guidance throughout this project.
 
 
 
