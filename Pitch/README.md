@@ -12,7 +12,7 @@ Its focus is inspired by my continuing role as the Programming Manager of UCLA R
 
 ### Design Statement
 
- Writing this in June 2020, it is especially apparent that top-down, homogeneous, and corporate media outlets do not tell the people's story. There needs to be media platform run by people and for people.
+ Writing this in June 2020, it is especially apparent that top-down, homogeneous, and corporate media outlets do not tell the people's story.  This media landscape has led to political splintering, hostility, and distance. The time has come for communities to reclaim this space.
 
 UCLA Radio has excellent content and passionate DJ's. But it's interface is dated and, at times, downright confusing.
 
@@ -67,6 +67,10 @@ A Figma high-fidelity prototype further developed the low-fidelity prototype. Mu
 <img width="1438" alt="landing screen" src="https://user-images.githubusercontent.com/56604738/83717790-73156880-a5e8-11ea-9fe1-b42ad1c83cb5.png">
 
 [Link to high fidelity prototype](https://www.figma.com/proto/eGnl7poccbveGvFoznV3Wc/High-Fidelity-Prototype?node-id=1%3A2&scaling=min-zoom)
+
+### Pitch
+
+[Link to Google Drive Folder with Pitch Video](https://drive.google.com/drive/folders/1jPUo-YB_pt7oplOd8mhFYGuL20FsOmFT?usp=sharing)
 
 ### Evaluation and Revision History
 
