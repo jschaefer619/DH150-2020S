@@ -41,7 +41,7 @@ The interview with a user from our target demographic (digitally literate colleg
  
  Our user also expressed the desire for filtering and more effective navigation for the show page. [Read more on Contextual Inquiry...](https://github.com/jschaefer619/DH150-2020S/tree/master/Assignment%2004:%20Contextual%20Inquiry)
  
- ### UX Storytelling
+### UX Storytelling
  
  UX Storytelling is a method for designer to engage with hypothetical users and anticipate their needs.
  
