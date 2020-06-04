@@ -6,7 +6,7 @@
 
 ### Introduction
 
-This project is both a redesign of the UCLA Radio website and an exploration on the role of community media today.
+This project is both a redesign of the UCLA Radio website and an exploration of the role of community media today.
 
 Its focus is inspired by my continuing role as the Programming Manager of UCLA Radio. I believe that a redesign of the UCLA Radio website would greatly improve the user experience of the platform. 
 
