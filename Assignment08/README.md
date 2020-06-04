@@ -66,8 +66,6 @@ A Figma high-fidelity prototype further developed the low-fidelity prototype. Mu
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1440" height="1024" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FeGnl7poccbveGvFoznV3Wc%2FHigh-Fidelity-Prototype%3Fnode-id%3D1%253A2%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
-[Link to high fidelity prototype](https://www.figma.com/proto/eGnl7poccbveGvFoznV3Wc/High-Fidelity-Prototype?node-id=1%3A2&scaling=min-zoom)
-
 ### Evaluation and Revision History
 
 This prototype was then presented to users for impression testing and a cognitive walkthrough. Users were able to complete the three tasks of our user personas effectively, and the overall impression of the redesign was positive. However there were improvements to be made. Images associated with certain shows were made interactive to suit the user's initial impulses. These changes were swiftly implemented. Further improvements could be made to improve contrast of text over gradients.
