@@ -70,6 +70,10 @@ A Figma high-fidelity prototype further developed the low-fidelity prototype. Mu
 
 This prototype was then presented to users for impression testing and a cognitive walkthrough. Users were able to complete the three tasks of our user personas effectively, and the overall impression of the redesign was positive. However there were improvements to be made. Images associated with certain shows were made interactive to suit the user's initial impulses. These changes were swiftly implemented. Further improvements could be made to improve contrast of text over gradients.
 
+### Pitch Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6hZVxnAeOOU?start=2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Conclusion
 
 The prototype tested effectively and fostered a pleasant user experience. The biggest challenge of this redesign was updating the aesthetics of the webpage, and to that end, this redesign was a success. But further developments on this prototype could include bolder visions for the potential of community media. The improved chat feature tested effectively, but there remains potential for further DJ - listener interaction affordances. More robust user testing with college aged users could reveal more insights in this regard.
