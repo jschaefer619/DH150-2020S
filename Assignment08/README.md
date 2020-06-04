@@ -16,7 +16,7 @@ Its focus is inspired by my continuing role as the Programming Manager of UCLA R
 
 UCLA Radio has excellent content and passionate DJ's. But it's interface is dated and, at times, downright confusing.
 
-**It is time to bring college radio, a platform with a longstanding grassroots heritage, into the 21st century to fill this niche in community media.** This can be accomplished through design focused on clean aesthetics, streamled navigiation, and increased DJ-listener interactions.
+**It is time to bring college radio, a platform with a longstanding grassroots heritage, into the 21st century to fill this niche in community media.** This can be accomplished through design focused on clean aesthetics, streamlined navigiation, and increased DJ-listener interactions.
 
 ### Competitor Analysis
 
