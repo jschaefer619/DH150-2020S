@@ -66,6 +66,8 @@ A Figma high-fidelity prototype further developed the low-fidelity prototype. Mu
 
 <img width="1438" alt="landing screen" src="https://user-images.githubusercontent.com/56604738/83717790-73156880-a5e8-11ea-9fe1-b42ad1c83cb5.png">
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FeGnl7poccbveGvFoznV3Wc%2FHigh-Fidelity-Prototype%3Fnode-id%3D1%253A2%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
+
 [Link to high fidelity prototype](https://www.figma.com/proto/eGnl7poccbveGvFoznV3Wc/High-Fidelity-Prototype?node-id=1%3A2&scaling=min-zoom)
 
 ### Evaluation and Revision History
