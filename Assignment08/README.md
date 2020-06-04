@@ -31,7 +31,7 @@ A heuristic evaluation was conducted on the [UCLA Radio website](https://uclarad
  
  User Testing of the UCLA Radio Website confirmed many of the issues raised during the heuristic analysis. [Read more on User Testing...](https://github.com/jschaefer619/DH150-2020S/tree/master/Assignment%2002:%20Pilot%20User%20Testing)
  
- ### User Research
+
  
  User research is a way for designers to engage with real users and uncover their desires, problems, and ideas associated with their potential product.
  
@@ -41,7 +41,7 @@ The interview with a user from our target demographic (digitally literate colleg
  
  Our user also expressed the desire for filtering and more effective navigation for the show page. [Read more on Contextual Inquiry...](https://github.com/jschaefer619/DH150-2020S/tree/master/Assignment%2004:%20Contextual%20Inquiry)
  
- ### UX Storytelling 
+ 
  
  UX Storytelling is a method for designer to engage with hypothetical users and anticipate their needs.
  
