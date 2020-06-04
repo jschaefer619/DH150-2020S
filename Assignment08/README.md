@@ -76,7 +76,7 @@ This prototype was then presented to users for impression testing and a cognitiv
 
 ### Conclusion
 
-The prototype tested effectively and fostered a pleasant user experience. The biggest challenge of this redesign was updating the aesthetics of the webpage, and to that end, this redesign was a success. But further developments on this prototype could include bolder visions for the potential of community media. The improved chat feature tested effectively, but there remains potential for further DJ - listener interaction affordances. More robust user testing with college aged users could reveal more insights in this regard.
+The prototype tested effectively and fostered a pleasant user experience. The biggest challenge of this redesign was updating the aesthetics of the webpage, and to that end, this redesign was a success. But further developments on this prototype could include bolder visions for the potential of community media. The improved chat feature tested effectively, but there remains potential for further DJ - listener interaction affordances. More robust user testing with college aged users may reveal more insights here.
 
 Personally, as a member of UCLA Radio, this project was satisfing. The quick and iterative nature of UI/UX research is very engaging. I learned much about the functionality and potential of Figma. Thank you to Dr. Sookie for her guidance throughout this project.
 
