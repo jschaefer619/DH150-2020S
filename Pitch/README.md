@@ -1,10 +1,14 @@
-## UCLA Radio: Community Building Through Community Media
+# UCLA Radio: Community Building Through Community Media
+
+### By Jack Schaefer
+
+![designthinking_illustration_final2-02](https://user-images.githubusercontent.com/56604738/83716854-ee294f80-a5e5-11ea-8389-b3af8ecb6163.png)
 
 ### Introduction
 
-This project is both redesign of the UCLA Radio website and a meditation on the role of community media today.
+This project is both redesign of the UCLA Radio website and an exploration on the role of community media today.
 
-This redesign of UCLA Radio website is an attempt to realize the potential of community media. The aesthetic is modernized. Navigation is smoother. There are pragmatic search features and filters. New affordances facilitate deeper DJ - listener communication, and highlight the DJ's role as a musical tastemaker. 
+This focus is inspired by my continuing role as the Programming Manager of UCLA Radio. I believe that a redesign of the UCLA Radio website would greatly improve the user experience of the platform. 
 
 ### Design Statement
 
@@ -12,7 +16,7 @@ This redesign of UCLA Radio website is an attempt to realize the potential of co
 
 UCLA Radio has excellent content and passionate DJ's. But it's interface is dated and, at times, downright confusing.
 
-It is time to bring college radio, a platform with a longstanding grassroots heritage, into the 21st century to fill this niche. 
+It is time to bring college radio, a platform with a longstanding grassroots heritage, into the 21st century to fill this niche.
 
 ### Competitor Analysis
 
@@ -23,7 +27,9 @@ A heursitic evaluation was conducted on the UCLA Radio website and the KXLU (LMU
  - Flexibility & efficiency of use: There need to be search features implemented for the "Shows" page, and filters would be effective for sorting through show content.
  - Visibility & System Status: Increased functionality for the streaming function - which shows is playing, what DJ, prior songs, etc.
  
- KXLU suffered from some similar issues, but did excel in the aesthetic and Minimalist design - it served as a design inspiration in this regard.
+ KXLU suffered from some similar issues, but did excel in the aesthetic and Minimalist design - it served as a design inspiration in this regard. [Read more on Heurisitic Evaluation...](https://github.com/jschaefer619/DH150-2020S/tree/master/Assignment01:%20Heuristic%20Evaluation)
+ 
+ User Testing of the UCLA Radio Website confirmed many of the issues raised during the heuristic analysis. [Read more on User Testing...](https://github.com/jschaefer619/DH150-2020S/tree/master/Assignment%2002:%20Pilot%20User%20Testing)
  
  ### User Research
  
@@ -31,7 +37,7 @@ A heursitic evaluation was conducted on the UCLA Radio website and the KXLU (LMU
  
  The interview with a user from our target demographic (digitally literate college student) yielded some useful insights. They expressed that the content of UCLA Radio occupies a different niche than traditional streaming services and traditional media. Rather than compete directly with platforms like Spotify or Amazon Music, UCLA Radio should highlight unique perspective of college students, their unconventional music tastes, and experimental forms of radio programming.
  
- Our user also expressed the desire for filtering and more effective navigation for the show page.
+ Our user also expressed the desire for filtering and more effective navigation for the show page. [Read more on Contextual Inquiry...](https://github.com/jschaefer619/DH150-2020S/tree/master/Assignment%2004:%20Contextual%20Inquiry)
  
  ### UX Storytelling 
  
@@ -41,6 +47,8 @@ A heursitic evaluation was conducted on the UCLA Radio website and the KXLU (LMU
   - 'Emma' is a LA newcomer and second year UCLA student who wants to discover new music to add to her existing spotify playlists. This persona inspired the spotify DJ feature
   - 'Chuck' is a former college radio DJ with a daughter involved in College radio - as such, he wants to support his daughter and college radio. He would like to find the showtime of his daughter's show. This persona inspired new DJ search / show integration features, as well as a new donate affordance.
   - 'Lee' is a current Radio DJ and would like to increase engagement with her audience. This persona inspired a more comprehensive chat feature.
+
+[Read more on Persona Stories...](https://github.com/jschaefer619/DH150-2020S/tree/master/Assignment%2005:%20Persona%20Stories)
   
 ### Wireframe and Graphic Design Element Variation
 
@@ -48,11 +56,13 @@ A wireframe is a quick and easily iterable way of allowing potential users to te
 
 #### Low-fidelity Prototype
 
-The features developed in the prior stage of user testing were demo'd through a low fidelity drawn wireframe. The reorganization, redesign of the new features tested well with users. Thus, it was time to further develop the prototype.
+The features developed in the prior stage of user testing were demo'd through a low fidelity drawn wireframe. The reorganization, redesign of the new features tested well with users. Thus, it was time to further develop the prototype. [Read more on Low-Fidelity Protoype...](https://github.com/jschaefer619/DH150-2020S/blob/master/Assignment%2006:%20Lo%20Fidelity%20Prototype/README.md)
 
 #### High-Fidelity Prototype 
 
-The high fidelity protype furthered development of the low-fidelity iterations. Much time was dedicated to refining the aesthetics of the webpage. Interaction points were clearly communicated to the user through highlighting and underlining features on text. Color contrast testing was performed. 
+The high fidelity protype furthered development of the low-fidelity iterations. Much time was dedicated to refining the aesthetics of the webpage. Interaction points were clearly communicated to the user through highlighting and underlining features on text. Color contrast testing was performed. [Read more on High Fidelity Prototype...](https://github.com/jschaefer619/DH150-2020S/tree/master/Assignment%2007:%20High%20Fidelity%20Prototype)
+
+<img width="1438" alt="landing screen" src="https://user-images.githubusercontent.com/56604738/83717790-73156880-a5e8-11ea-9fe1-b42ad1c83cb5.png">
 
 ### Evaluation and Revision History
 
