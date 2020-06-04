@@ -12,11 +12,11 @@ Its focus is inspired by my continuing role as the Programming Manager of UCLA R
 
 ### Design Statement
 
- Writing this in June 2020, it is especially apparent that top-down homogeneous corporate media outlets do not tell the people's story. There needs to be a media platform that is run by people and for people.
+ Writing this in June 2020, it is especially apparent that top-down, homogeneous, and corporate media outlets do not tell the people's story. There needs to be media platform run by people and for people.
 
 UCLA Radio has excellent content and passionate DJ's. But it's interface is dated and, at times, downright confusing.
 
-**It is time to bring college radio, a platform with a longstanding grassroots heritage, into the 21st century to fill this niche in community media.**
+**It is time to bring college radio, a platform with a longstanding grassroots heritage, into the 21st century to fill this niche in community media.** This can be accomplished through design focused on clean aesthetics, streamled navigiation, and increased DJ-listener interactions.
 
 ### Competitor Analysis
 
