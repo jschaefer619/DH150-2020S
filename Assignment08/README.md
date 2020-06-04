@@ -37,7 +37,7 @@ A heuristic evaluation was conducted on the [UCLA Radio website](https://uclarad
  
 <img width="719" alt="still user research" src="https://user-images.githubusercontent.com/56604738/83721019-1c5f5d00-a5ef-11ea-8350-69c851022553.png">
 
-The interview with a user from our target demographic (digitally literate college student) yielded some useful insights. They expressed that the content of UCLA Radio occupies a different niche than traditional streaming services and traditional media out. Rather than compete directly with platforms like Spotify or Amazon Music, UCLA Radio should highlight the unique perspectives of college students, their unconventional music tastes, and experimental forms of radio programming.
+The interview with a user from our target demographic (digitally literate college student) yielded some useful insights. They expressed that the content of UCLA Radio occupies a different niche than traditional streaming services and traditional media outlets. Rather than compete directly with platforms like Spotify or Amazon Music, UCLA Radio should highlight the unique perspectives of college students, their unconventional music tastes, and experimental forms of radio programming.
  
  Our user also expressed the desire for filtering and more effective navigation for the show page. [Read more on Contextual Inquiry...](https://github.com/jschaefer619/DH150-2020S/tree/master/Assignment%2004:%20Contextual%20Inquiry)
  
